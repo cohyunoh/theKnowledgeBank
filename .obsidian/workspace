@@ -7,8 +7,11 @@
         "id": "5e98e2c7093c939e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -41,8 +44,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "800fd885735925a3",
@@ -54,6 +56,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -68,5 +71,7 @@
     "currentTab": 0
   },
   "active": "5e98e2c7093c939e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
