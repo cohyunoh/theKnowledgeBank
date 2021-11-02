@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "a7358eab7338149a",
+    "id": "2109526323461652",
     "type": "split",
     "children": [
       {
-        "id": "722df5ce9c9be767",
+        "id": "5e98e2c7093c939e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,76 +18,62 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef10a0582fdaa904",
-    "type": "split",
+    "id": "6a370b7e6ccf6434",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a68098670537d0e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec2b7760bd7ce42f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "70d362295b82c2d1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "9de9d154e0ab5b2a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "819e3f99ea73fc07",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "1fa28be55435c0a5",
-    "type": "split",
+    "id": "800fd885735925a3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "419792981e587bb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85e6611e5a1c3c60",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Testing Sync.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "1e9097b4e8fac53f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Testing Sync.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "722df5ce9c9be767",
+  "active": "5e98e2c7093c939e",
   "lastOpenFiles": [
-    "Testing Sync.md"
+    "Testing Sync.md",
+    "Untitled.md"
   ]
 }
