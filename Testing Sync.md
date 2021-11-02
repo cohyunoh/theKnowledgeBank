@@ -1,2 +1,0 @@
-Hi Ipad
-Hi computer
