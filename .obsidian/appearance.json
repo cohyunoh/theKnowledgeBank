@@ -1,3 +1,9 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 11,
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "spacing",
+    "color"
+  ]
 }
