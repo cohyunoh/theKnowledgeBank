@@ -1,13 +1,11 @@
 [
-  "periodic-notes",
   "calendar",
-  "obsidian-outliner",
-  "sliding-panes-obsidian",
-  "templater-obsidian",
-  "hotkeysplus-obsidian",
-  "smart-random-note",
   "table-editor-obsidian",
-  "note-refactor-obsidian",
+  "hotkeysplus-obsidian",
   "nldates-obsidian",
-  "review-obsidian"
+  "note-refactor-obsidian",
+  "periodic-notes",
+  "review-obsidian",
+  "smart-random-note",
+  "templater-obsidian"
 ]
