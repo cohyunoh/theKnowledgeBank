@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "2109526323461652",
+    "id": "45bf9591e86d0185",
     "type": "split",
     "children": [
       {
@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Eukaryotes.md",
-            "mode": "preview"
+            "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+            "mode": "source"
           }
         }
       }
@@ -18,7 +18,7 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a370b7e6ccf6434",
+    "id": "5550daf5b8e41feb",
     "type": "mobile-drawer",
     "children": [
       {
@@ -67,7 +67,7 @@
     "currentTab": 0
   },
   "right": {
-    "id": "800fd885735925a3",
+    "id": "d0e970cf28337992",
     "type": "mobile-drawer",
     "children": [
       {
@@ -88,22 +88,64 @@
         }
       },
       {
-        "id": "869e4cb57811d411",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "d4db2fc612c9307c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdb425b0766eb80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ac330180e6d88be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "943122a591d3bcac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "ecf653bd9236fd64",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Notes/Working/Eukaryotes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b253777acdc3dad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bc8756a453101d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md"
+              }
+            }
           }
         }
       },
@@ -124,12 +166,25 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "a742fe384fc50d65",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 4
   },
   "active": "5e98e2c7093c939e",
   "lastOpenFiles": [
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Gametes.md",
+    "Notes/Working/Condensation (Chromatin).md",
+    "Notes/Working/Chromatin.md",
+    "Notes/Working/Proteins.md",
     "Notes/Working/Eukaryotes.md",
     "Notes/Process/Cell Division.md",
     "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
