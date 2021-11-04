@@ -20,5 +20,7 @@
   "newFileFolderPath": "Notes/Working",
   "lineWrap": true,
   "autoPairBrackets": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "promptDelete": false
 }

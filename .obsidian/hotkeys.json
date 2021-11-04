@@ -45,8 +45,7 @@
   "editor:focus-top": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "ArrowUp"
     }
@@ -54,8 +53,7 @@
   "editor:focus-bottom": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "ArrowDown"
     }
@@ -163,22 +161,8 @@
       "key": "S"
     }
   ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
+  "editor:swap-line-down": [],
+  "editor:swap-line-up": [],
   "editor:insert-link": [],
   "insert-template": [
     {
@@ -279,6 +263,38 @@
         "Shift"
       ],
       "key": "W"
+    }
+  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "nldates-obsidian:nlp-dates": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "review-obsidian:future-review": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f56839becd5df32",
+        "id": "d559c4628b642db4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -66,16 +66,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179,
-    "collapsed": true
+    "width": 178.5
   },
   "right": {
     "id": "6a4dedc3d07bc69d",
     "type": "split",
     "children": [
       {
+        "id": "2bfb91ecee449528",
+        "type": "tabs",
+        "dimension": 39.06447534766119,
+        "children": [
+          {
+            "id": "7148679c929563e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "a8674fc48a810e45",
         "type": "tabs",
+        "dimension": 27.560050568900124,
         "children": [
           {
             "id": "33f3d6e826cea36c",
@@ -117,27 +132,13 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "036634517bdab09f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3edf3543fccba2f5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/Working/BIO-202.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6d66cf89814760e3",
         "type": "tabs",
+        "dimension": 33.37547408343868,
         "children": [
           {
             "id": "44aeddb3faeef597",
@@ -195,25 +196,35 @@
                 }
               }
             }
+          },
+          {
+            "id": "3edf3543fccba2f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Working/BIO-202.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4f56839becd5df32",
+  "active": "d559c4628b642db4",
   "lastOpenFiles": [
     "Notes/Working/BIO-202.md",
-    "Attachments/Recording 20211103225758.m4a",
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Eurkaryotic cell division consists of Mitosis(division of the Nucleus) and Cytokinesis(division of the Cytoplasm)..md",
+    "Notes/Working/Cell Division.md",
     "Journal/Daily/2021/11/03.md",
+    "Journal/Daily/2021/11/04.md",
+    "Notes/Final/The Platonic Academy of Florence.md",
+    "Attachments/Recording 20211103225758.m4a",
     "Notes/Working/DNA.md",
-    "Templates/Journal Template.md",
-    "Notes/Working/2021-11-03.md",
-    "Recording 20211103181145.webm",
-    "Notes/Working/Chromosomes.md",
-    "Notes/Working/Cytoplasm.md",
-    "Notes/Working/G2 Phase.md"
+    "Templates/Journal Template.md"
   ]
 }
