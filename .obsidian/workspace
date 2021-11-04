@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5e98e2c7093c939e",
+        "id": "e0a8a4ededd559af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "mode": "preview"
+            "file": "Notes/Working/Gametes.md",
+            "mode": "source"
           }
         }
       }
@@ -22,25 +22,45 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9de9d154e0ab5b2a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
+        "id": "07816a814c8c2aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b9d981f4c73257",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bcce19e5200221e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "819e3f99ea73fc07",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "bio",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7600875754b031da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e96d24283646272",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         }
       },
@@ -71,39 +91,78 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1e9097b4e8fac53f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ed27f41c06f6bd05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e49878bc6498a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "869e4cb57811d411",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "d4db2fc612c9307c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdb425b0766eb80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Working/Gametes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ac330180e6d88be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Working/Gametes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "943122a591d3bcac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "ecf653bd9236fd64",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b253777acdc3dad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bc8756a453101d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Working/Gametes.md"
+              }
+            }
           }
         }
       },
@@ -128,17 +187,17 @@
     ],
     "currentTab": 4
   },
-  "active": "5e98e2c7093c939e",
+  "active": "e0a8a4ededd559af",
   "lastOpenFiles": [
-    "Notes/Working/BIO-202.md",
-    "Notes/Working/Cell Division.md",
-    "Notes/Daily/2021-11-04.md",
-    "Notes/Final/The Platonic Academy of Florence.md",
-    "Notes/Working/Daily Note Template.md",
-    "Templates/Journal Template.md",
-    "Notes/Working/Untitled.md",
-    "Notes/Working/2021-11-04.md",
-    "Attachments/Pasted image 20211103210214.png",
-    "Notes/Working/Journal Template.md"
+    "Notes/Working/Gametes.md",
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Condensation (Chromatin).md",
+    "Notes/Working/Chromatin.md",
+    "Notes/Working/Proteins.md",
+    "Notes/Working/Eukaryotes.md",
+    "Notes/Process/Cell Division.md",
+    "Notes/Working/Habit Tracker.md",
+    "Notes/Working/Horcruxes.md",
+    "Notes/Working/prokaryotes.md"
   ]
 }

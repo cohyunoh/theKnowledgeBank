@@ -276,9 +276,10 @@
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "\\"
+      "key": "/"
     }
   ],
   "nldates-obsidian:nlp-dates": [
@@ -303,6 +304,15 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "templater-obsidian:Templates/Note Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad4"
     }
   ]
 }
