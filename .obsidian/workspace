@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/BIO-202.md",
+            "file": "Notes/Working/Journal Template.md",
             "mode": "source"
           }
         }
@@ -32,13 +32,7 @@
               "type": "file-explorer",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "e2dbb27db8a6c49b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "ab737539e9491d56",
             "type": "leaf",
@@ -72,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179,
-    "collapsed": true
+    "width": 179
   },
   "right": {
     "id": "6a4dedc3d07bc69d",
@@ -89,7 +82,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/BIO-202.md",
+                "file": "Notes/Working/Journal Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/BIO-202.md",
+                "file": "Notes/Working/Journal Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/BIO-202.md"
+                "file": "Notes/Working/Journal Template.md"
               }
             }
           }
@@ -151,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/BIO-202.md",
+                "file": "Notes/Working/Journal Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,15 +204,15 @@
   },
   "active": "618a16fdbcca716c",
   "lastOpenFiles": [
+    "Notes/Working/Journal Template.md",
     "Notes/Working/BIO-202.md",
+    "Notes/Working/2021-11-03.md",
     "Recording 20211103181145.webm",
     "Notes/Working/Chromosomes.md",
     "Notes/Working/Cytoplasm.md",
     "Notes/Working/G2 Phase.md",
     "Notes/Processing/LUntitled.md",
     "Notes/Working/Gametes.md",
-    "Pasted image 20211103152230.png",
-    "Notes/Working/Genome.md",
-    "Notes/Working/Cell Division.md"
+    "Pasted image 20211103152230.png"
   ]
 }

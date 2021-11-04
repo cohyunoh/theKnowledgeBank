@@ -3,9 +3,9 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY/MM/DD-[H]HH[M]MM",
     "template": "",
-    "folder": "",
+    "folder": "Journal/Daily",
     "enabled": true
   },
   "weekly": {
