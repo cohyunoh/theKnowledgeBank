@@ -8,16 +8,5 @@
   "showLineNumber": true,
   "mobilePullAction": "editor:save-file",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
-  "strictLineBreaks": false,
-  "showFrontmatter": false,
-  "spellcheckDictionary": [
-    "horcruxes",
-    "chromatid",
-    "Interphase",
-    "Connor"
-  ],
-  "newFileFolderPath": "Notes/Working",
-  "lineWrap": true,
-  "autoPairBrackets": true
+  "newFileFolderPath": "Notes/Working"
 }
