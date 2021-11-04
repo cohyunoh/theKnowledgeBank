@@ -5,9 +5,9 @@
 - The [[Genome | genome]] of a cell, or its **genetic material** ([[DNA]]), is split up like [[Horcruxes]] among [[Chromosomes | chromosomes]].
 - Each [[Eukaryotes | eukaryotic]] chromosome consists of one DNA molecule associated with many [[Proteins | proteins]] and the combination of the complex of DNA and associated proteins is called  [[Chromatin | chromatin]].
 - [[Chromatin]] exists in *different states of [[Condensation (Chromatin) | condensation]]* at different times.
-- In animals, [[Gametes]] have *one* set of chromosomes while [[Somatic Cells]] have *two*.
+- In animals, [[Gametes | gametes]] have *one* set of chromosomes while [[Somatic Cells | somatic cells]] have *two*.
 - Before cells go through cell division, they *replicate* their genetic material. The result is two **daughter cells** that each have a copy of the DNA.
 - When the genetic material replicates, the chromosomes are *duplicated*
-	- Each duplicated chromosome consists of two identical sister chromatids joined together at the center, *lengthwise*, at the **constricted region** called the [[Centromere]].
+	- Each duplicated chromosome consists of two identical sister chromatids joined together at the center, *lengthwise*, at the **constricted region** called the [[Centromere | centromere]].
 - When the *daughter cells are formed*, the **cohesion** between the two **sister chromatids** is broken and each chromatid *becomes a chromosome* for one of the daughter cells.
 - **Eurkaryotic cell division** consists of [[Mitosis]](*division of the [[nucleus]]*) and [[Cytokinesis]](*division of the [[cytoplasm]]*).
