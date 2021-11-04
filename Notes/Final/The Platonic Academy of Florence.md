@@ -26,3 +26,5 @@
 	- **Contemplation**: a direct spiritual experience from which Ficino refers to everywhere in his writings.
 	- **Platonic Love**: a spiritual bond between two persons who both participate in the *contemplative life*
 	- **The History of Human Thought**: Religious thoughts based on holy scripture. Platonic thought based on reason and philosophy (*truths*). 
+- Sets up **[[deism]]**: the religion of the enlightenment
+	- God created the universe and is an absentee landlord
