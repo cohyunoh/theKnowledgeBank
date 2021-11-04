@@ -276,7 +276,8 @@
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
       "key": "/"
     }
@@ -305,5 +306,13 @@
       "key": "D"
     }
   ],
-  "table-editor-obsidian:table-control-bar": []
+  "table-editor-obsidian:table-control-bar": [],
+  "templater-obsidian:Templates/Note Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad4"
+    }
+  ]
 }

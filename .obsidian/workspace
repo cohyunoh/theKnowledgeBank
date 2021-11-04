@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5e98e2c7093c939e",
+        "id": "e0a8a4ededd559af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Daily/2021-11-04.md",
+            "file": "Notes/Working/Gametes.md",
             "mode": "source"
           }
         }
@@ -47,7 +47,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7600875754b031da",
+        "type": "tabs",
+        "children": [
           {
             "id": "7e96d24283646272",
             "type": "leaf",
@@ -77,14 +83,20 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d4db2fc612c9307c",
+        "type": "tabs",
+        "children": [
           {
             "id": "cdb425b0766eb80b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily/2021-11-04.md",
+                "file": "Notes/Working/Gametes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Daily/2021-11-04.md",
+                "file": "Notes/Working/Gametes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,14 +129,20 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b253777acdc3dad9",
+        "type": "tabs",
+        "children": [
           {
             "id": "a8bc8756a453101d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Daily/2021-11-04.md"
+                "file": "Notes/Working/Gametes.md"
               }
             }
           }
@@ -135,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e98e2c7093c939e",
+  "active": "e0a8a4ededd559af",
   "lastOpenFiles": [
-    "Notes/Daily/2021-11-04.md",
-    "Templates/Journal Template.md",
-    "Templates/Daily Note Template.md",
-    "Notes/Working/BIO-202.md",
-    "Journal/Daily/2021/11/04.md",
-    "Notes/Working/Leonardo DaVinci.md",
-    "Notes/Working/Journal Template.md",
-    "Chromatin.md",
-    "Cell Division.md",
-    "hdhhdh.md"
+    "Notes/Working/Gametes.md",
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Condensation (Chromatin).md",
+    "Notes/Working/Chromatin.md",
+    "Notes/Working/Proteins.md",
+    "Notes/Working/Eukaryotes.md",
+    "Notes/Process/Cell Division.md",
+    "Notes/Working/Habit Tracker.md",
+    "Notes/Working/Horcruxes.md",
+    "Notes/Working/prokaryotes.md"
   ]
 }

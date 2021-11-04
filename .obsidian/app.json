@@ -15,7 +15,9 @@
     "chromatid",
     "Interphase",
     "Connor",
-    "microtubules"
+    "microtubules",
+    "kinetochores",
+    "cytokinesis"
   ],
   "newFileFolderPath": "Notes/Working",
   "lineWrap": true,
