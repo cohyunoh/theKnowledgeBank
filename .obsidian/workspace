@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "2109526323461652",
+    "id": "45bf9591e86d0185",
     "type": "split",
     "children": [
       {
@@ -18,8 +18,8 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "416fb49540a3e058",
-    "type": "split",
+    "id": "5550daf5b8e41feb",
+    "type": "mobile-drawer",
     "children": [
       {
         "id": "07816a814c8c2aed",
@@ -62,15 +62,33 @@
               "state": {}
             }
           }
-        ]
+        }
+      },
+      {
+        "id": "8019a4e9cf234008",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7e030ebd4ef984b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "a2e8de00ffc755f8",
-    "type": "split",
+    "id": "d0e970cf28337992",
+    "type": "mobile-drawer",
     "children": [
       {
         "id": "ed27f41c06f6bd05",
@@ -146,12 +164,36 @@
               }
             }
           }
-        ]
+        }
+      },
+      {
+        "id": "a17993fc483fbe08",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/Working/BIO-202.md"
+          }
+        }
+      },
+      {
+        "id": "4b4f4cc53783e167",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a742fe384fc50d65",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 4
   },
   "active": "e0a8a4ededd559af",
   "lastOpenFiles": [
