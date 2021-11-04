@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "2109526323461652",
+    "id": "45bf9591e86d0185",
     "type": "split",
     "children": [
       {
-        "id": "5e98e2c7093c939e",
+        "id": "88ae4a74364b6e81",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a370b7e6ccf6434",
+    "id": "5550daf5b8e41feb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9de9d154e0ab5b2a",
+        "id": "937dbe689f7449fe",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "819e3f99ea73fc07",
+        "id": "9d766cf0f14e7c57",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "bio",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -43,16 +43,35 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "6a8ef9d404f0901b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d30bb1df8308ac05",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "800fd885735925a3",
+    "id": "d0e970cf28337992",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1e9097b4e8fac53f",
+        "id": "a9b1440b606edf06",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -69,24 +88,51 @@
         }
       },
       {
-        "id": "869e4cb57811d411",
+        "id": "5219edf224a3cc58",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/Working/BIO-202.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8d8953fcc2875b42",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/Working/BIO-202.md"
+          }
+        }
+      },
+      {
+        "id": "c38735a71eb41137",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "a742fe384fc50d65",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
-  "active": "5e98e2c7093c939e",
+  "active": "88ae4a74364b6e81",
   "lastOpenFiles": [
     "Notes/Working/BIO-202.md",
-    "Notes/Working/Journal Template.md",
-    "Chromatin.md",
-    "Cell Division.md",
-    "hdhhdh.md",
-    "Testing Sync.md",
-    "Untitled.md"
+    "Attachments/Recording 20211103225758.m4a",
+    "Notes/Working/Cell Division.md",
+    "Notes/Working/G2 Phase.md"
   ]
 }
