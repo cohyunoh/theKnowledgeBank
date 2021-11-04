@@ -12,7 +12,7 @@
     "format": "",
     "template": "Templates/Journal Template.md",
     "folder": "Journal/Weekly",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "",

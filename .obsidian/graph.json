@@ -18,27 +18,41 @@
       "query": "path:Notes/Process",
       "color": {
         "a": 1,
-        "rgb": 16775019
+        "rgb": 14725458
       }
     },
     {
       "query": "path:Notes/Final",
       "color": {
         "a": 1,
-        "rgb": 9884511
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Journal/Daily",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.44017094017094,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.59094017094017,
+  "lineSizeMultiplier": 3.0651282051282,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 8.276917978462823,
-  "close": false
+  "scale": 1.0000000000000027,
+  "close": true
 }

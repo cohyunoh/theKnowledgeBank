@@ -2,11 +2,25 @@
   "newFileLocation": "folder",
   "promptDelete": false,
   "spellcheck": true,
+  "readableLineLength": true,
   "foldHeading": true,
   "foldIndent": true,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "mobilePullAction": "editor:save-file",
+  "tabSize": 4,
   "alwaysUpdateLinks": true,
-  "newFileFolderPath": "Notes/Working"
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "spellcheckDictionary": [
+    "horcruxes",
+    "chromatid",
+    "Interphase",
+    "Connor",
+    "microtubules"
+  ],
+  "newFileFolderPath": "Notes/Working",
+  "lineWrap": true,
+  "autoPairBrackets": true,
+  "attachmentFolderPath": "Attachments"
 }
