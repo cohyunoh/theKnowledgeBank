@@ -1,1 +1,12 @@
-{}
+{
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "mobilePullAction": "editor:save-file",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "Notes/Working"
+}
