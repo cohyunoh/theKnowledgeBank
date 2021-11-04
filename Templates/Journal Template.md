@@ -1,3 +1,3 @@
-# {{title}} - {{time}}
+# {{title}} | {{time}}
 ---
 Dear Connor Oh,

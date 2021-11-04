@@ -1,2 +1,2 @@
-# {{title}} - {{time}}
+# {{title}} | {{time}}
 ---

@@ -7,8 +7,11 @@
         "id": "5e98e2c7093c939e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Daily/2021-11-04.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Daily/2021-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Daily/2021-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Daily/2021-11-04.md"
+              }
             }
           }
         ]
@@ -130,14 +137,15 @@
   },
   "active": "5e98e2c7093c939e",
   "lastOpenFiles": [
+    "Notes/Daily/2021-11-04.md",
+    "Templates/Journal Template.md",
+    "Templates/Daily Note Template.md",
+    "Notes/Working/BIO-202.md",
     "Journal/Daily/2021/11/04.md",
     "Notes/Working/Leonardo DaVinci.md",
-    "Notes/Working/BIO-202.md",
     "Notes/Working/Journal Template.md",
     "Chromatin.md",
     "Cell Division.md",
-    "hdhhdh.md",
-    "Testing Sync.md",
-    "Untitled.md"
+    "hdhhdh.md"
   ]
 }

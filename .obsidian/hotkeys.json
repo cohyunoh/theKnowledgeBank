@@ -276,9 +276,9 @@
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "\\"
+      "key": "/"
     }
   ],
   "nldates-obsidian:nlp-dates": [
@@ -304,5 +304,6 @@
       ],
       "key": "D"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": []
 }
