@@ -3,7 +3,7 @@
   "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "spacing",
-    "color"
+    "color",
+    "spacing"
   ]
 }

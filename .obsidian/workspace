@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/BIO-202.md",
+            "file": "Notes/Final/The Platonic Academy of Florence.md",
             "mode": "source"
           }
         }
@@ -56,11 +56,29 @@
               "state": {}
             }
           }
-        ]
+        }
+      },
+      {
+        "id": "8019a4e9cf234008",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7e030ebd4ef984b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
     "id": "a2e8de00ffc755f8",
@@ -137,12 +155,15 @@
   },
   "active": "5e98e2c7093c939e",
   "lastOpenFiles": [
+    "Notes/Final/The Platonic Academy of Florence.md",
     "Notes/Working/BIO-202.md",
+    "Notes/Working/Daily Note Template.md",
+    "Templates/Journal Template.md",
+    "Notes/Working/Untitled.md",
+    "Notes/Working/2021-11-04.md",
+    "Attachments/Pasted image 20211103210214.png",
     "Notes/Working/Journal Template.md",
     "Chromatin.md",
-    "Cell Division.md",
-    "hdhhdh.md",
-    "Testing Sync.md",
-    "Untitled.md"
+    "Cell Division.md"
   ]
 }
