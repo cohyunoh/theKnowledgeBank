@@ -7,11 +7,8 @@
         "id": "5e98e2c7093c939e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Leonardo DaVinci.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Leonardo DaVinci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Leonardo DaVinci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Working/Leonardo DaVinci.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,6 +130,7 @@
   },
   "active": "5e98e2c7093c939e",
   "lastOpenFiles": [
+    "Journal/Daily/2021/11/04.md",
     "Notes/Working/Leonardo DaVinci.md",
     "Notes/Working/BIO-202.md",
     "Notes/Working/Journal Template.md",
