@@ -1,22 +1,30 @@
 # The Platonic Academy of Florence
 - Florence has always been a town of merchants and craftsmen where art, literature, and religious devotion flourished.
 - Their *vernacular language* allowed for intelligent and artistic writings.
-	- **Dante** alone was proof enough of this.
-- The period between Dante and **Ficino** was dominated by civic humanism leading great writings by *Boccaccio, Salutati, Bruni, Marsuppini, and Alberti.*
+	- **[[Dante]]** alone was proof enough of this.
+- The period between Dante and **[[Ficino]]** was dominated by civic humanism leading great writings by *Boccaccio, Salutati, Bruni, Marsuppini, and Alberti.*
 	- It was a *literary culture*
-- The arrival of **Johannes Argyropulus** marked the period when a university was needed that reflected this new era of humanistic writings.
+- The arrival of **[[Johannes Argyropulus]]** marked the period when a university was needed that reflected this new era of humanistic writings.
 - The **Platonic Academy** was made by Masilio Ficino and it was due in part to Argyropulus wanting to educate his son to be like the *humanist writers he adored so much*.
-- The university *strayed away from the secular teachings of common universities at the time* (aka **Scholasticism**).
+- The university *strayed away from the secular teachings of common universities at the time* (aka **[[Scholasticism]]**).
 - How the Platonic Academy played a role in developing European thought:
 	- *Fashion*: made academia cool
 	- *Improving the Secular Gap*: Tried to bridge the gap between science and religion better than scholasticism did (more reliant on science).
 - The person behind it all: Ficino
-	- Was very bright (learned **Aristotelian physics** and got his medical degree).
+	- Not much really known about him
+	- Was very bright (learned **Aristotelian [[physics]]** and got his medical degree).
 	- Translated Plato (why its called *Platonic*)
 	- Wrote *Platonic Theology* (his philosophical work)
+	- Does not have an *ultimate piece* that has lasted all time, but many writings that are have stemmed from Ficino.
+- Ficino funded by **[[Medici]]** family. They were active patrons.
+	- Theory: Medici funded Academy to distract from how they have control of the city. 
+	- The academy is not threatening to their power so that is why they are fans. 
+- **[[Metaphysics]]**: philosophy that looks at the nature of existence
 - The academy was more of a circle around Ficino so he can have conversations like Plato and Socrates (*bootleg Socratic circle*).
 - He surrounded himself with intellectuals and those were the people admitted in.
 - Some topics discussed:
 	- **Contemplation**: a direct spiritual experience from which Ficino refers to everywhere in his writings.
 	- **Platonic Love**: a spiritual bond between two persons who both participate in the *contemplative life*
-	- **The History of Human Thought**: Religious thoughts based on holy scripture. Platonic thought based on reason and philosophy (*truths*).
+	- **The History of Human Thought**: Religious thoughts based on holy scripture. Platonic thought based on reason and philosophy (*truths*). 
+- Sets up **[[deism]]**: the religion of the enlightenment
+	- God created the universe and is an absentee landlord

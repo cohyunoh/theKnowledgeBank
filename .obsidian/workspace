@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "88ae4a74364b6e81",
+        "id": "e0a8a4ededd559af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "mode": "preview"
+            "file": "Notes/Working/Gametes.md",
+            "mode": "source"
           }
         }
       }
@@ -22,30 +22,50 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "937dbe689f7449fe",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
+        "id": "07816a814c8c2aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b9d981f4c73257",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bcce19e5200221e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "9d766cf0f14e7c57",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7600875754b031da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e96d24283646272",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         }
       },
       {
-        "id": "6a8ef9d404f0901b",
+        "id": "8019a4e9cf234008",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -56,7 +76,7 @@
         }
       },
       {
-        "id": "d30bb1df8308ac05",
+        "id": "7e030ebd4ef984b7",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -71,36 +91,83 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a9b1440b606edf06",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ed27f41c06f6bd05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e49878bc6498a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4db2fc612c9307c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdb425b0766eb80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Working/Gametes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ac330180e6d88be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Working/Gametes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "943122a591d3bcac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b253777acdc3dad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bc8756a453101d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Working/Gametes.md"
+              }
+            }
           }
         }
       },
       {
-        "id": "5219edf224a3cc58",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Notes/Working/BIO-202.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "8d8953fcc2875b42",
+        "id": "a17993fc483fbe08",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -110,10 +177,10 @@
         }
       },
       {
-        "id": "c38735a71eb41137",
+        "id": "4b4f4cc53783e167",
         "type": "leaf",
         "state": {
-          "type": "calendar",
+          "type": "advanced-tables-toolbar",
           "state": {}
         }
       },
@@ -128,11 +195,17 @@
     ],
     "currentTab": 4
   },
-  "active": "88ae4a74364b6e81",
+  "active": "e0a8a4ededd559af",
   "lastOpenFiles": [
-    "Notes/Working/BIO-202.md",
-    "Attachments/Recording 20211103225758.m4a",
-    "Notes/Working/Cell Division.md",
-    "Notes/Working/G2 Phase.md"
+    "Notes/Working/Gametes.md",
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Condensation (Chromatin).md",
+    "Notes/Working/Chromatin.md",
+    "Notes/Working/Proteins.md",
+    "Notes/Working/Eukaryotes.md",
+    "Notes/Process/Cell Division.md",
+    "Notes/Working/Habit Tracker.md",
+    "Notes/Working/Horcruxes.md",
+    "Notes/Working/prokaryotes.md"
   ]
 }
