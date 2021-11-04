@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "618a16fdbcca716c",
+        "id": "4f56839becd5df32",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Journal Template.md",
-            "mode": "source"
+            "file": "Notes/Working/BIO-202.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,29 +18,35 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a370b7e6ccf6434",
-    "type": "mobile-drawer",
+    "id": "f9bbc81096e8f8e7",
+    "type": "split",
     "children": [
       {
-        "id": "9de9d154e0ab5b2a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "819e3f99ea73fc07",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "6522458676a830b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b42d4fe2d25800",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab737539e9491d56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       },
@@ -63,8 +69,8 @@
     "width": 179
   },
   "right": {
-    "id": "800fd885735925a3",
-    "type": "mobile-drawer",
+    "id": "6a4dedc3d07bc69d",
+    "type": "split",
     "children": [
       {
         "id": "a8674fc48a810e45",
@@ -76,7 +82,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Journal Template.md",
+                "file": "Notes/Working/BIO-202.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Journal Template.md",
+                "file": "Notes/Working/BIO-202.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/Journal Template.md"
+                "file": "Notes/Working/BIO-202.md"
               }
             }
           }
@@ -138,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/Journal Template.md",
+                "file": "Notes/Working/BIO-202.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,22 +195,24 @@
               }
             }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "618a16fdbcca716c",
+  "active": "4f56839becd5df32",
   "lastOpenFiles": [
-    "Notes/Working/Journal Template.md",
     "Notes/Working/BIO-202.md",
+    "Journal/Daily/2021/11/03.md",
+    "Templates/Journal Template.md",
     "Notes/Working/2021-11-03.md",
     "Recording 20211103181145.webm",
     "Notes/Working/Chromosomes.md",
     "Notes/Working/Cytoplasm.md",
     "Notes/Working/G2 Phase.md",
     "Notes/Processing/LUntitled.md",
-    "Notes/Working/Gametes.md",
-    "Pasted image 20211103152230.png"
+    "Notes/Working/Gametes.md"
   ]
 }
