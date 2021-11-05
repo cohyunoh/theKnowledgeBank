@@ -1,82 +1,48 @@
 {
   "main": {
-    "id": "7c2911623676fc5d",
+    "id": "0e286209639ba798",
     "type": "split",
     "children": [
       {
-        "id": "7dcdc83e4884ba00",
+        "id": "87c70c3684b51f21",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Process/Biology MOC.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c82e8ae5fb6a4c21",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/The Cell Cycle.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f4fab5222e109e5f",
+    "id": "2fa78eb05ad47a8c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a9b3dfa1e8176dca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3955568a217aee3e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "d85629e9f2a423e2",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Each chromosome contains one long",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "id": "73d4935119b3b5e4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "b046b48a8284110d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20ce231482c7e2cd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "ed1c6c6397c693d9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "127c22053a22ce41",
+        "id": "a1597a0e37bd00c0",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -87,7 +53,7 @@
         }
       },
       {
-        "id": "7968191228d763e7",
+        "id": "df56175e67c66fe9",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -98,126 +64,35 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e64aed5a59f20c3f",
+    "id": "09c11139fc0bcee3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e67a7f7d7603837b",
-        "type": "tabs",
-        "dimension": 33.11258278145695,
-        "children": [
-          {
-            "id": "86a5aaee5111ff4d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "id": "3a229b562086cd7e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       },
       {
-        "id": "4cb39357faf668a0",
-        "type": "tabs",
-        "dimension": 33.11258278145695,
-        "children": [
-          {
-            "id": "31bdb58560cd591a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notes/Process/Biology MOC.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "62e18f34c9b40e6d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notes/Process/Biology MOC.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c88b79250a10d713",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c2c5a84a979fd80f",
-        "type": "tabs",
-        "dimension": 33.77483443708609,
-        "children": [
-          {
-            "id": "fe4deb96c8342e41",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Process/Biology MOC.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.2816532814678937,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "73285626bae0212a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/Process/Biology MOC.md"
-              }
-            }
+        "id": "5dc6fb32098af044",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "936fa3ae3729830c",
+        "id": "40578160a93b9050",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -228,7 +103,7 @@
         }
       },
       {
-        "id": "67cd3e81004f26b8",
+        "id": "3ab85d4437a0ed82",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -238,17 +113,6 @@
     ],
     "currentTab": 0
   },
-  "active": "7dcdc83e4884ba00",
-  "lastOpenFiles": [
-    "Notes/Process/Biology MOC.md",
-    "Notes/Working/The Cell Cycle.md",
-    "Notes/Working/Cell Cycle.md",
-    "Notes/Working/Mitosis.md",
-    "Journal/Daily/2021/11/05.md",
-    "Notes/Working/Cytokinesis.md",
-    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
-    "Notes/Working/Mitotic Phase.md",
-    "Notes/Working/Interphase.md",
-    "Notes/Working/G2 Phase.md"
-  ]
+  "active": "87c70c3684b51f21",
+  "lastOpenFiles": []
 }
