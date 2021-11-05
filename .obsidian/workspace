@@ -9,7 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Process/Biology MOC.md",
+            "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8f907fe5e12189c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Cytokinesis.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "99d144f78f316344",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Chromosomes.md",
             "mode": "preview"
           }
         }
@@ -20,8 +42,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/The Cell Cycle.md",
-            "mode": "preview"
+            "file": "Notes/Working/Mitosis.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5c5750c8804b01e",
@@ -109,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Process/Biology MOC.md",
+                "file": "Notes/Working/Chromosomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Process/Biology MOC.md",
+                "file": "Notes/Working/Chromosomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +180,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Process/Biology MOC.md",
+                "file": "Notes/Working/Chromosomes.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -170,7 +193,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
@@ -180,7 +203,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2816532814678937,
+                  "scale": 0.1846232622585816,
                   "close": true
                 }
               }
@@ -192,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Process/Biology MOC.md"
+                "file": "Notes/Working/Chromosomes.md"
               }
             }
           }
@@ -203,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dcdc83e4884ba00",
+  "active": "99d144f78f316344",
   "lastOpenFiles": [
-    "Notes/Process/Biology MOC.md",
-    "Notes/Working/The Cell Cycle.md",
-    "Notes/Working/Cell Cycle.md",
-    "Notes/Working/Mitosis.md",
-    "Journal/Daily/2021/11/05.md",
+    "Notes/Working/Chromosomes.md",
     "Notes/Working/Cytokinesis.md",
+    "Notes/Working/Metaphase Plate.md",
     "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
-    "Notes/Working/Mitotic Phase.md",
-    "Notes/Working/Interphase.md",
-    "Notes/Working/G2 Phase.md"
+    "Notes/Working/Mitosis.md",
+    "Notes/Process/Biology MOC.md",
+    "Notes/Working/Cell Cycle.md",
+    "Notes/Working/The Cell Cycle.md",
+    "Journal/Daily/2021/11/05.md",
+    "Notes/Working/Mitotic Phase.md"
   ]
 }

@@ -16,6 +16,8 @@ Each [[Eukaryotes|eukaryotic]] species has a characteristic number of chromosome
 
 - Human cell has **46 chromosomes** in its [[Nucleus|nucleus]].
 
-Each chromosome has a [[Centromeres|centromere]] and *two arms*.
+Each chromosome has a [[Centromeres|centromere]] and *two arms*. It is only the **one strand you see in the beginning of [[Chromosomes#^ed444e|this figure]]**.
 
-![[Pasted image 20211104203029.png]]
+---
+
+![[Pasted image 20211104203029.png]] ^ed444e
