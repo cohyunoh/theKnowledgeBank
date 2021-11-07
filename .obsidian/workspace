@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcdc83e4884ba00",
+        "id": "9c5e4cdcc1bcc8bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "8f907fe5e12189c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Cytokinesis.md",
+            "file": "Notes/Process/Biology MOC.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "99d144f78f316344",
+        "id": "e1e93a07f5333d59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Genes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c82e8ae5fb6a4c21",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Mitosis.md",
+            "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
             "mode": "source"
           }
         }
@@ -72,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Each chromosome contains one long",
+                "query": "cohesin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b046b48a8284110d",
@@ -132,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Mitosis.md",
+                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Mitosis.md",
+                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/Mitosis.md",
+                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/Mitosis.md"
+                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md"
               }
             }
           }
@@ -226,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c82e8ae5fb6a4c21",
+  "active": "e1e93a07f5333d59",
   "lastOpenFiles": [
-    "Notes/Working/Mitosis.md",
-    "Notes/Working/Genes.md",
-    "Notes/Working/Chromosomes.md",
-    "Notes/Working/Cytokinesis.md",
-    "Notes/Working/Metaphase Plate.md",
-    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
-    "Notes/Process/Biology MOC.md",
-    "Notes/Working/Cell Cycle.md",
+    "Notes/Working/Meiosis and Sexual Life Cycles.md",
+    "Notes/Working/The Eukaryotic Cell Cycle is Regulated by a Molecular Control System.md",
+    "Notes/Working/The Mitotic Phase Alternates With Interphase in the Cell Cycle.md",
     "Notes/Working/The Cell Cycle.md",
-    "Journal/Daily/2021/11/05.md"
+    "Notes/Process/Biology MOC.md",
+    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
+    "Notes/Working/Checkpoints.md",
+    "Notes/Working/G2 Checkpoint.md",
+    "Notes/Working/Cyclins.md",
+    "Notes/Working/Cyclin-Dependent Kinases (Cdks).md"
   ]
 }

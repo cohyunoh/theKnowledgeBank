@@ -20,7 +20,7 @@ The top diagram with the arrows shows what a greater [[Gibbs Free Energy|ΔG]] m
 
 ![[Pasted image 20211104212146.png]]
 
-[[Cyclooxygenase| Cyclooxygenase (COX)]] is an [[Enzyme|enzyme]] that is responsible for the *formation of important biological mediators* that include **[[prostaglandins]]**, **[[prostacyclin]]**, and **[[thromboxane]]**.
+[[Cyclooxygenase| Cyclooxygenase (COX)]] is an [[Enzymes|enzyme]] that is responsible for the *formation of important biological mediators* that include **[[prostaglandins]]**, **[[prostacyclin]]**, and **[[thromboxane]]**.
 
 ---
 

@@ -12,7 +12,8 @@
 	- Some of the spindles attach to the [[Kinetochores]] of chromosomes and move the chromosomes to the [[metaphase plate]].
 	- These sister chromatids are separated via **motor proteins** in their kinetochores which move the chromatids along the kinetochore microtubules towards the ends of the cell.
 	- The free microtubules elongate the cell as the motor proteins push them away as well
-- After [[Mitosis]] is usually [[Cytokinesis]], which is carried out by [[cleavage]] in animal cells and plant cells just *form a cell plate*  as their cytokinesis. 
-- [[Bacteria]] divides differently as they use [[binary fision]] to replicate their chromosome and then *more actively* move the daughter chromosomes away from each other.
+- After [[Mitosis]] is usually [[Cytokinesis]], which is carried out by [[Cleavage|cleavage]] in animal cells and plant cells just *form a cell plate*  as their cytokinesis. 
+- [[Prokaryotes|Bacteria]] divides differently as they use [[Binary Fission|binary fission]] to replicate their chromosome and then *more actively* move the daughter chromosomes away from each other.
 - Cell division in eukaryotes most likely *evolved* from from prokaryotic cell division.
 	- Certain **unicellular eukaryotes** exhibit *mechanisms of cell divisions*, but not all of them and not even the same exact mechanisms, but similar. Could be the different iterations of the cell division through evolution.
+	- ![[Pasted image 20211107015749.png]]
