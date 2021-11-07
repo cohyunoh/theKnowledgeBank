@@ -9,18 +9,73 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Process/Biology MOC.md",
+            "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "00b253dab288f53f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ac22c7624c4dccb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Meiosis Reduces the Number of Chromosome Sets from Diploid to Haploid.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "fa7ea9157421b254",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Fertilization and Meiosis Alternate in Sexual Life Cycles.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "360e4ac5e0153295",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Arduino MOC.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "e1e93a07f5333d59",
+        "id": "33d2bc80800516c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
+            "file": "Notes/Working/Microcontrollers.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a6dfe45c31ac5291",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Flash Memory.md",
             "mode": "source"
           }
         }
@@ -88,7 +143,6 @@
       {
         "id": "e67a7f7d7603837b",
         "type": "tabs",
-        "dimension": 33.11258278145695,
         "children": [
           {
             "id": "86a5aaee5111ff4d",
@@ -103,7 +157,6 @@
       {
         "id": "4cb39357faf668a0",
         "type": "tabs",
-        "dimension": 33.11258278145695,
         "children": [
           {
             "id": "31bdb58560cd591a",
@@ -111,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
+                "file": "Notes/Working/Microcontrollers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
+                "file": "Notes/Working/Microcontrollers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +204,6 @@
       {
         "id": "c2c5a84a979fd80f",
         "type": "tabs",
-        "dimension": 33.77483443708609,
         "children": [
           {
             "id": "fe4deb96c8342e41",
@@ -159,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
+                "file": "Notes/Working/Microcontrollers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +246,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/Meiosis and Sexual Life Cycles.md"
+                "file": "Notes/Working/Microcontrollers.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57742e3f1565eb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d6023989dc905ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Working/Fertilization and Meiosis Alternate in Sexual Life Cycles.md",
+                "mode": "preview"
               }
             }
           }
@@ -205,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1e93a07f5333d59",
+  "active": "33d2bc80800516c3",
   "lastOpenFiles": [
+    "Notes/Working/Microcontrollers.md",
+    "Notes/Working/Flash Memory.md",
+    "Notes/Working/Analog Iutputs.md",
+    "Notes/Working/Arduino MOC.md",
+    "Notes/Working/Digital Connections.md",
+    "Notes/Working/Arduino.md",
+    "Notes/Working/Offspring Acquire Genes from Parents by Inheriting Chromosomes.md",
+    "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md",
     "Notes/Working/Meiosis and Sexual Life Cycles.md",
-    "Notes/Working/The Eukaryotic Cell Cycle is Regulated by a Molecular Control System.md",
-    "Notes/Working/The Mitotic Phase Alternates With Interphase in the Cell Cycle.md",
-    "Notes/Working/The Cell Cycle.md",
-    "Notes/Process/Biology MOC.md",
-    "Notes/Working/Most Cell Division Results in Identical Daughter Cells.md",
-    "Notes/Working/Checkpoints.md",
-    "Notes/Working/G2 Checkpoint.md",
-    "Notes/Working/Cyclins.md",
-    "Notes/Working/Cyclin-Dependent Kinases (Cdks).md"
+    "Notes/Working/Meiosis Reduces the Number of Chromosome Sets from Diploid to Haploid.md"
   ]
 }
