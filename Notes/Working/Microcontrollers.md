@@ -6,4 +6,10 @@
 - 28-pin chip manufactured by Atmel.
 - **CPU**: *controls everything*
 	- *Fetching program* in the [[Flash Memory|flash memory]] and run it.
-	- Fetching data from 
+	- Fetching data from [[RAM]].
+	- Changing [[Digital Connections|digital outputs]] from 0V  to 5V (*and vice versa*).
+- EEPROM ^a89149
+	- Non-volatile (*won't forget*).
+	- Store data you don't want to lost.
+- Reset
+	- **Clear memory** and **restart program** (*program will be retained*).

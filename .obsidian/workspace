@@ -53,7 +53,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Arduino MOC.md",
+            "file": "Notes/Working/Arduino.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9eacabff8412bba3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/The Arduino Family.md",
             "mode": "source"
           }
         }
@@ -65,18 +76,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Working/Microcontrollers.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a6dfe45c31ac5291",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Flash Memory.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Microcontrollers.md",
+                "file": "Notes/Working/The Arduino Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Microcontrollers.md",
+                "file": "Notes/Working/The Arduino Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c2c5a84a979fd80f",
@@ -211,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/Microcontrollers.md",
+                "file": "Notes/Working/The Arduino Family.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/Microcontrollers.md"
+                "file": "Notes/Working/The Arduino Family.md"
               }
             }
           }
@@ -274,17 +273,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33d2bc80800516c3",
+  "active": "9eacabff8412bba3",
   "lastOpenFiles": [
-    "Notes/Working/Microcontrollers.md",
-    "Notes/Working/Flash Memory.md",
-    "Notes/Working/Analog Iutputs.md",
-    "Notes/Working/Arduino MOC.md",
-    "Notes/Working/Digital Connections.md",
+    "Notes/Working/The Arduino Family.md",
     "Notes/Working/Arduino.md",
+    "Notes/Working/Microcontrollers.md",
+    "Notes/Working/Arduino MOC.md",
+    "Notes/Working/Flash Memory.md",
+    "Notes/Working/RAM.md",
+    "Notes/Working/Analog Iutputs.md",
+    "Notes/Working/Digital Connections.md",
     "Notes/Working/Offspring Acquire Genes from Parents by Inheriting Chromosomes.md",
-    "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md",
-    "Notes/Working/Meiosis and Sexual Life Cycles.md",
-    "Notes/Working/Meiosis Reduces the Number of Chromosome Sets from Diploid to Haploid.md"
+    "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md"
   ]
 }
