@@ -1,7 +1,27 @@
 # Fertilization and Meiosis Alternate in Sexual Life Cycles
 ---
-- Normal human [[Somatic Cells|somatic cells]] are [[Diploid|diploid]]. They have **46 chromosomes** made up of two sets of 23 [[Chromosomes|chromosomes]], *one set from each parent*.
+- Normal human [[Somatic Cells|somatic cells]] are [[Diploid Cells|diploid]]. They have **46 chromosomes** made up of two sets of 23 [[Chromosomes|chromosomes]], *one set from each parent*.
 - Human diploid cells have **22 pairs** of [[Homologs|homologs]] that are [[Autosomes|autosomes]], and one pair of [[Sex chromosomes|sex chromosomes]]; the latter typically determines whether the person is *female (XX) or male (XY)*.
-- In humans, **ovaries and testes** produce [[Haploid Gametes|haploid gametes]] by [[Meiosis|meiosis]], each [[Gametes|gamete]] containing a *single set of 23* [[Chromosomes|chromosomes]] ($n=23$).
-- During [[Fertilization|fertilization]], an **egg and sperm** unite, forming a [[Diploid|diploid]] ($2n=46$) single-celled [[Zygote|zygote]], which develops into a *multicellular organism* is produced by [[Mitosis|mitosis]].
+- In humans, **ovaries and testes** produce [[Haploid Cells|haploid gametes]] by [[Meiosis|meiosis]], each [[Gametes|gamete]] containing a *single set of 23* [[Chromosomes|chromosomes]] ($n=23$).
+- During [[Fertilization|fertilization]], an **egg and sperm** unite, forming a [[Diploid Cells|diploid]] ($2n=46$) single-celled [[Zygote|zygote]], which develops into a *multicellular organism* is produced by [[Mitosis|mitosis]].
 - **Sexual life cycles** differ in the timing of [[Meiosis|meiosis]] relative to [[Fertilization|fertilization]] and in the *point(s) of the cycle* at which a **multicellular organism** is produced by [[Mitosis|mitosis]].
+- There are **three types of life cycles**:
+	- *Humans and Animals*:
+		- [[Gametes]] are the **only** [[Haploid Cells|haploid cells]].
+		- [[Meiosis]] occurs in **germ cells** during the *production of gametes*, which undergo no further [[Cell Division|cell division]] prior to [[Fertilization|fertilization]].
+		- After [[Fertilization|fertilization]], the **diploid** [[Zygote|zygote]] divides by [[Mitosis|mitosis]], *producing a multicellular organism* that is [[Diploid Cells|diploid]].
+		- ![[Pasted image 20211110162214.png]]
+	- *Plants and Some Algae*
+		- This life cycle is called [[Alternation of Generations|alternation of generations]] 
+		- This type includes both **diploid** ([[Sporophyte|sporophyte]]) and **haploid** ([[Gametophyte|gametophyte]]) stages that are *multicellular*.
+			- [[Meiosis]] in the [[Sporophyte|sporophyte]] produces [[Haploid Cells|haploid cells]] called *spores*.
+				- These *spores* do not fuse with other cells but divide [[Mitosis|mitotically]], generating a **multicellular haploid stage** called the [[Gametophyte|gametophyte]].
+			- Cells of the [[Gametophyte|gametophyte]] give rise to [[Gametes|gametes]] by [[Mitosis|mitosis]].
+				- **Fusion** of *two haploids* [[Gametes|gametes]] at [[Fertilization|fertilization]] results in a *diploid* [[Zygote|zygote]], which develops into the next [[Sporophyte|sporophyte]] generation.
+		- ![[Pasted image 20211110164524.png]]
+	- *Most Fungi and Some Protists*
+		- After [[Gametes|gametes]] **fuse** and form a **diploid** [[Zygote|zygote]], [[Meiosis|meiosis]] occurs without a *multicellular diploid offspring developing*.
+		- [[Meiosis]] produced not [[Gametes|gametes]] but [[Haploid Cells|haploid cells]] that then *divide by* [[Mitosis|mitosis]] and give rise to either **unicellular descendants** or a **haploid multicellular** adult organism. 
+		- Subsequently, the *haploid organism* carries out *further [[Mitosis|mitoses]]*, producing the cells that *develop into* [[Gametes|gametes]].
+		- The only *diploid stage* found in these species is the **single-celled** [[Zygote|zygote]].
+		- ![[Pasted image 20211110165413.png]]

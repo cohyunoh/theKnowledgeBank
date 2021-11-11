@@ -15,4 +15,4 @@
 	- A lot smaller than [[The Arduino Family#^28d0c7|Uno]]
 	- Cannot accept *Uno-sized shields*.
 - Bluetooth - includes **Bluetooth hardware** *in place of the USB connector*.
-- Lilypad - a *tiny and thin* Arduino board that can be stitched into clothing for
+- Lilypad - a *tiny and thin* Arduino board that can be stitched into clothing for for *wearable computing*.

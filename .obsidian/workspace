@@ -4,79 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5e4cdcc1bcc8bf",
+        "id": "9b4a218a50c9fc5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Meiosis and Sexual Life Cycles.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "00b253dab288f53f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ac22c7624c4dccb7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Meiosis Reduces the Number of Chromosome Sets from Diploid to Haploid.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "fa7ea9157421b254",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Fertilization and Meiosis Alternate in Sexual Life Cycles.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "360e4ac5e0153295",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Arduino.md",
+            "file": "Notes/Working/Mendel Used the Scientific Approach to Identify Two Laws of Inheritance.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "9eacabff8412bba3",
+        "id": "8bbd15ebd4bd606f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/The Arduino Family.md",
+            "file": "Notes/Working/P Generation.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "33d2bc80800516c3",
+        "id": "76f269b401fd4dca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Microcontrollers.md",
-            "mode": "preview"
+            "file": "Notes/Working/Hybridization.md",
+            "mode": "source"
           }
         }
       }
@@ -105,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cohesin",
+                "query": "centriol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b046b48a8284110d",
@@ -151,8 +106,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "df0335d791129d06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4cb39357faf668a0",
@@ -164,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/The Arduino Family.md",
+                "file": "Notes/Working/P Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/The Arduino Family.md",
+                "file": "Notes/Working/P Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/The Arduino Family.md",
+                "file": "Notes/Working/P Generation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/The Arduino Family.md"
+                "file": "Notes/Working/P Generation.md"
               }
             }
           }
@@ -273,17 +237,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eacabff8412bba3",
+  "active": "8bbd15ebd4bd606f",
   "lastOpenFiles": [
-    "Notes/Working/The Arduino Family.md",
-    "Notes/Working/Arduino.md",
-    "Notes/Working/Microcontrollers.md",
-    "Notes/Working/Arduino MOC.md",
-    "Notes/Working/Flash Memory.md",
-    "Notes/Working/RAM.md",
-    "Notes/Working/Analog Iutputs.md",
-    "Notes/Working/Digital Connections.md",
-    "Notes/Working/Offspring Acquire Genes from Parents by Inheriting Chromosomes.md",
-    "Notes/Working/Genetic Variation Produced in Sexual Life Cycles Contributes to Evolution.md"
+    "Notes/Working/P Generation.md",
+    "Notes/Working/The Mendel Experiment.md",
+    "Notes/Working/Mendel Used the Scientific Approach to Identify Two Laws of Inheritance.md",
+    "Notes/Working/Hybridization.md",
+    "Notes/Working/True-Breeding.md",
+    "Notes/Working/G2 Phase.md",
+    "Notes/Working/Trait (Biology).md",
+    "Notes/Working/Character (Biology).md",
+    "Notes/Working/Law of Segregation.md",
+    "Notes/Working/Mendel and the Gene Idea.md"
   ]
 }

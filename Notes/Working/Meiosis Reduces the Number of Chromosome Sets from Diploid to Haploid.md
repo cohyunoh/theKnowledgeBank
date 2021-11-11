@@ -10,4 +10,4 @@
 
 ---
 - [[Meiosis II]] separates the [[Sister Chromatids|sister chromatids]].
-- [[Sister chromatids|Sister chromatid]] cohesion and **crossing over** allow [[Chiasmata|chiasmata]] to hold [[Homologs|homologs]] together until [[Anaphase I|anaphase I]]. [[Centromeres#^0ed091|Cohesins]]  are *cleaved along the arms*  at anaphase I, **allowing homologs to separate**, and at the [[Centromeres|centromeres]] in [[Anaphase II|anaphase II]], releasing [[Sister Chromatids|sister chromatids]] from each other.
+- [[Sister chromatids|Sister chromatid]] cohesion and [[Crossing Over and Synapsis|crossing over]] allow [[Chiasmata|chiasmata]] to hold [[Homologs|homologs]] together until [[Anaphase I|anaphase I]]. [[Centromeres#^0ed091|Cohesins]]  are *cleaved along the arms*  at anaphase I, **allowing homologs to separate**, and at the [[Centromeres|centromeres]] in [[Anaphase II|anaphase II]], releasing [[Sister Chromatids|sister chromatids]] from each other.
