@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4a218a50c9fc5b",
+        "id": "c12d7b1cf8523aba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Mendel Used the Scientific Approach to Identify Two Laws of Inheritance.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8bbd15ebd4bd606f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/P Generation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "76f269b401fd4dca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Hybridization.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "centriol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cb39357faf668a0",
@@ -128,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/P Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/P Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Working/P Generation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +168,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1846232622585816,
+                  "scale": 0.121020244427319,
                   "close": true
                 }
               }
@@ -208,26 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Working/P Generation.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "57742e3f1565eb11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d6023989dc905ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Working/Fertilization and Meiosis Alternate in Sexual Life Cycles.md",
-                "mode": "preview"
-              }
+              "state": {}
             }
           }
         ]
@@ -237,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bbd15ebd4bd606f",
+  "active": "c12d7b1cf8523aba",
   "lastOpenFiles": [
-    "Notes/Working/P Generation.md",
-    "Notes/Working/The Mendel Experiment.md",
-    "Notes/Working/Mendel Used the Scientific Approach to Identify Two Laws of Inheritance.md",
-    "Notes/Working/Hybridization.md",
-    "Notes/Working/True-Breeding.md",
-    "Notes/Working/G2 Phase.md",
-    "Notes/Working/Trait (Biology).md",
-    "Notes/Working/Character (Biology).md",
-    "Notes/Working/Law of Segregation.md",
-    "Notes/Working/Mendel and the Gene Idea.md"
+    "Notes/Working/The Chromosomal Basis of Inheritance.md",
+    "Notes/Working/Some Inheritance Patterns are Exceptions to Standard Mendelian Inheritance.md",
+    "Notes/Working/Genomic Imprinting.md",
+    "Notes/Working/Alterations of Chromosome Number or Structure Cause Some Genetic Disorders.md",
+    "Notes/Working/Aneuploidy of Sex Chromosomes.md",
+    "Notes/Working/Down Syndrome.md",
+    "Notes/Working/Deletion.md",
+    "Notes/Working/Translocation.md",
+    "Notes/Working/Inversion.md",
+    "Notes/Working/Duplication.md"
   ]
 }
