@@ -1,0 +1,15 @@
+# Microcontrollers
+---
+- This is a *littler computer on a chip*.
+- It has a **processor**, **RAM (kB)**, **EPROM**, **input and output**.
+- *Output* can be [[Digital Connections|digital]] or [[Analog Iutputs|analog]].
+- 28-pin chip manufactured by Atmel.
+- **CPU**: *controls everything*
+	- *Fetching program* in the [[Flash Memory|flash memory]] and run it.
+	- Fetching data from [[RAM]].
+	- Changing [[Digital Connections|digital outputs]] from 0V  to 5V (*and vice versa*).
+- EEPROM ^a89149
+	- Non-volatile (*won't forget*).
+	- Store data you don't want to lost.
+- Reset
+	- **Clear memory** and **restart program** (*program will be retained*).
