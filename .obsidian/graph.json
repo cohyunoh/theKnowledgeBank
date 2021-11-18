@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 9884511
       }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Journal",
+      "color": {
+        "a": 1,
+        "rgb": 5431492
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4017499192237733,
-  "close": false
+  "scale": 0.2633464105678111,
+  "close": true
 }

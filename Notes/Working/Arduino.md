@@ -1,0 +1,15 @@
+# Arduino
+---
+- **Arduino interface boards** provide a *low cost, easy-to-use technology* to create [[Microcontrollers|microcontroller-based]] projects.
+- **Arduino** is a small [[Microcontrollers|microcontroller board]]:
+	- USB Plug
+	- Connection sockets for external electronics
+		- Motors
+		- Relays
+		- Light sensors
+		- Speakers
+	- Powered through
+		- USB from computer
+		- 9V battery
+		- Power supply
+- **Open source** board design
