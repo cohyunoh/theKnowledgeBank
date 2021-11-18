@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "bb9d45e64fb97389",
+    "id": "30d04259f5b0ddbb",
     "type": "split",
     "children": [
       {
-        "id": "84e888b25b01050c",
+        "id": "241390e5e72ff959",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -68,14 +68,6 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2e09a6359fbc8773",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
         "id": "8d81adb928e18418",
         "type": "leaf",
         "state": {
@@ -109,10 +101,18 @@
           "type": "outline",
           "state": {}
         }
+      },
+      {
+        "id": "9de531bae33acd2b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
-  "active": "84e888b25b01050c",
+  "active": "241390e5e72ff959",
   "lastOpenFiles": []
 }
