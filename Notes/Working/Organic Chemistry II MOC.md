@@ -1,0 +1,13 @@
+# Organic Chemistry II MOC
+---
+## [[Diels-Alder Reaction|Lecture 24]]
+## [[Other Pericyclic Reactions|Pre-Lecture 26]]
+## [[Electrocyclic Reactions|Lecture 26]]
+## [[Cope and Claisen Rearrangements|Lecture 27]]
+## [[Rearrangements|Lecture 28]]
+## [[Even More Rearrangements|Lecture 29]]
+## [[Halogenation of Alkanes|Pre-Lecture 30]]
+## [[Free Radical Chemistry|Lecture 30]]
+## [[Arachindonic Acid|Pre-Lecture 31]]
+## [[Radical Mechanisms|Lecture 31]]
+## [[Carbohyrates|Lecture 35]]

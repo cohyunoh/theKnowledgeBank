@@ -1,14 +1,61 @@
 {
   "main": {
-    "id": "7c2911623676fc5d",
+    "id": "80f884b9bd2c3fe5",
     "type": "split",
     "children": [
       {
-        "id": "c12d7b1cf8523aba",
+        "id": "23a593f6fa59800c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Organic Chemistry II MOC.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "633aa90cbb658b9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Cope and Claisen Rearrangements.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e3a7493a581e178b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Free Radical Chemistry.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "225024eddfff9782",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Carbohyrates.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f435d211c4f1e1d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/Radical Mechanisms.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"propagation step\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b046b48a8284110d",
@@ -102,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Working/Cope and Claisen Rearrangements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Working/Cope and Claisen Rearrangements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Working/Cope and Claisen Rearrangements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Working/Cope and Claisen Rearrangements.md"
+              }
             }
           }
         ]
@@ -189,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c12d7b1cf8523aba",
+  "active": "633aa90cbb658b9c",
   "lastOpenFiles": [
-    "Notes/Working/The Chromosomal Basis of Inheritance.md",
-    "Notes/Working/Some Inheritance Patterns are Exceptions to Standard Mendelian Inheritance.md",
-    "Notes/Working/Genomic Imprinting.md",
-    "Notes/Working/Alterations of Chromosome Number or Structure Cause Some Genetic Disorders.md",
-    "Notes/Working/Aneuploidy of Sex Chromosomes.md",
-    "Notes/Working/Down Syndrome.md",
-    "Notes/Working/Deletion.md",
-    "Notes/Working/Translocation.md",
-    "Notes/Working/Inversion.md",
-    "Notes/Working/Duplication.md"
+    "Notes/Working/Cope and Claisen Rearrangements.md",
+    "Notes/Working/Organic Chemistry II MOC.md",
+    "Notes/Working/Free Radical Chemistry.md",
+    "Notes/Working/Carbohyrates.md",
+    "Notes/Working/Radical Mechanisms.md",
+    "Attachments/Pasted image 20211116232330.png",
+    "Notes/Working/Halogenation of Alkanes.md",
+    "Notes/Working/Even More Rearrangements.md",
+    "Notes/Working/Rearrangements.md",
+    "Notes/Working/Concerted.md"
   ]
 }
