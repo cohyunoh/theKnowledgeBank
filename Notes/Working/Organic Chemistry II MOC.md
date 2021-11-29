@@ -11,3 +11,6 @@
 ## [[Arachindonic Acid|Pre-Lecture 31]]
 ## [[Radical Mechanisms|Lecture 31]]
 ## [[Carbohyrates|Lecture 35]]
+## [[Intro to Biosynthesis|Pre-Lecture 38]]
+## [[Terpene Biosynthesis|Lecture 38]]
+## [[Cholesterol|Pre-lecture 39]]
