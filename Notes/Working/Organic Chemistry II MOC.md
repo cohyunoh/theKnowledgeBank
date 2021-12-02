@@ -14,3 +14,4 @@
 ## [[Intro to Biosynthesis|Pre-Lecture 38]]
 ## [[Terpene Biosynthesis|Lecture 38]]
 ## [[Cholesterol|Pre-lecture 39]]
+## [[Fatty Acid Synthesis|Pre-Lecture 40]]
