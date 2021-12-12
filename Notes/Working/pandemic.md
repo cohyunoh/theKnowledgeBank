@@ -1,0 +1,3 @@
+# Pandemic
+---
+A global epidemic.

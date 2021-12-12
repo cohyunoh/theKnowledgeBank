@@ -15,23 +15,100 @@
         }
       },
       {
-        "id": "3745431f8e1ac41e",
+        "id": "a09dcee23d549b0c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Regulation of Gene Expression.md",
+            "file": "Notes/Working/DNA Tools and Biotechnology.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "38b509e27b5ea867",
+        "id": "ea3d7a41c3d9c450",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Working/Cancer results from genetic changes that affect cell cycle control.md",
+            "file": "Notes/Working/Biologists use DNA technology to study gene expression and function.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "119d37701187e4c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/SNP.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9eb604395b27bb31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/genome-wide association studies.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "770154427040650e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/in vitro mutagenesis.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "71921927d27d59f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/DNA microarray assays.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "809e048133578aeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/RNA-seq.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c4a5bcc31a9689a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/RT-PCR.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "187f0d5235657f3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/cDNA.md",
             "mode": "source"
           }
         }
@@ -61,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "XIST Gene",
+                "query": "\"PCR amplification using primers specific for the gene of interest\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/Cancer results from genetic changes that affect cell cycle control.md",
+                "file": "Notes/Working/SNP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/Cancer results from genetic changes that affect cell cycle control.md",
+                "file": "Notes/Working/SNP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,29 +225,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/Cancer results from genetic changes that affect cell cycle control.md"
+                "file": "Notes/Working/SNP.md"
               }
+            }
+          },
+          {
+            "id": "1788503c8b441dd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "38b509e27b5ea867",
+  "active": "119d37701187e4c2",
   "lastOpenFiles": [
-    "Notes/Working/Cancer results from genetic changes that affect cell cycle control.md",
-    "Notes/Working/Regulation of Gene Expression.md",
-    "Notes/Working/siRNAs.md",
-    "Notes/Working/RNAi.md",
-    "Notes/Working/tumor-suppressor genes.md",
-    "Notes/Working/oncogenes.md",
-    "Notes/Working/proto-oncogenes.md",
-    "Notes/Working/A program of differential gene expression leads to the different cell types in a multicellular organism.md",
-    "Notes/Working/morphogens.md",
-    "Notes/Working/maternal effect gene.md"
+    "Notes/Working/SNP.md",
+    "Notes/Working/Biologists use DNA technology to study gene expression and function.md",
+    "Notes/Working/genome-wide association studies.md",
+    "Notes/Working/in vitro mutagenesis.md",
+    "Notes/Working/DNA microarray assays.md",
+    "Notes/Working/RNA-seq.md",
+    "Notes/Working/cDNA.md",
+    "Notes/Working/RT-PCR.md",
+    "Notes/Working/in situ hybridization.md",
+    "Notes/Working/nucleic acid probe.md"
   ]
 }

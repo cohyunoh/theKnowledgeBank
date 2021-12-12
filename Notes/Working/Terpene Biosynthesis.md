@@ -17,15 +17,15 @@
 - Requires [[DMAPP]]
 ### Process
 1. Isomerize [[DMAPP]] into **IPP** (*isopentenyl pyrophosphate*).
-	- 	![[Pasted image 20211128204938.png]]
+	- ![[Pasted image 20211128204938.png]]
 	- *DMAPP is more stable* so this **isomerization** requires an [[Enzymes|enzyme]].
 		- The enzyme will *add a proton and then remove a proton* to **move a double bond**
 		- It is call **IPP isomerase**
 2. Ionize **OPP** and *make a cation from one of them* 
-	- 	![[Pasted image 20211128205916.png]]
+	- ![[Pasted image 20211128205916.png]]
 	- The cation from [[DMAPP]] is *more stable*.
-3. 	Attack cation with IPP and repeat the process
-	- 	![[Pasted image 20211128210238.png]]
+3. Attack cation with IPP and repeat the process
+	- ![[Pasted image 20211128210238.png]]
 
 ---
 ## Suggesting a Biosynthesis Pathway
