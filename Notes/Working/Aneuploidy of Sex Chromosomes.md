@@ -1,0 +1,13 @@
+# Aneuploidy of Sex Chromosomes
+---
+- [[Aneuploidy|Aneuploid]] conditions involving [[Sex chromosomes|sex chromosomes]] appear to *upset the genetic balance* **less than those involving autosomes**.
+	- Due to **Y chromosome** *having relatively few genes*.
+	- Due to **extra copies of X chromosomes** becoming [[Barr Body|Barr bodies]].
+- **Klinefelter Syndrome**
+	- An *extra X chromosome*.
+	- **Have male sex organs**, but *testes are small and produce little or no sperm.*
+- **Extra Y chromosome** just results in *taller men*.
+- Females with **trisomy X (XXX)** are just slightly taller than average.
+- **Turner Syndrome**
+	- **Monosomy X**
+	- Female but **sterile** as their *sex organs do not develop*.
