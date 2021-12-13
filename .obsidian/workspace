@@ -7,8 +7,11 @@
         "id": "3c27339cac27f653",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Working/DNA is the Genetic Material.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -32,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Biology",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -41,8 +44,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "00665192b991c9ed",
@@ -54,6 +56,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notes/Working/DNA is the Genetic Material.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -68,5 +71,10 @@
     "currentTab": 0
   },
   "active": "3c27339cac27f653",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Notes/Working/DNA is the Genetic Material.md",
+    "Notes/Working/The Molecular Basis of Inheritance.md",
+    "Notes/Process/Biology MOC.md",
+    "Notes/Working/DNA Tools and Biotechnology.md"
+  ]
 }
