@@ -10,106 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Process/Biology MOC.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a09dcee23d549b0c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/DNA Tools and Biotechnology.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ea3d7a41c3d9c450",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/Biologists use DNA technology to study gene expression and function.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "119d37701187e4c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/SNP.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9eb604395b27bb31",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/genome-wide association studies.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "770154427040650e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/in vitro mutagenesis.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "71921927d27d59f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/DNA microarray assays.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "809e048133578aeb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/RNA-seq.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7c4a5bcc31a9689a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/RT-PCR.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "187f0d5235657f3c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Working/cDNA.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -138,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"PCR amplification using primers specific for the gene of interest\"",
+                "query": "correlated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Working/SNP.md",
+                "file": "Notes/Process/Biology MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Working/SNP.md",
+                "file": "Notes/Process/Biology MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Working/SNP.md"
+                "file": "Notes/Process/Biology MOC.md"
               }
             }
           },
@@ -245,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "119d37701187e4c2",
+  "active": "f74d2ee65d2af3e3",
   "lastOpenFiles": [
-    "Notes/Working/SNP.md",
-    "Notes/Working/Biologists use DNA technology to study gene expression and function.md",
-    "Notes/Working/genome-wide association studies.md",
-    "Notes/Working/in vitro mutagenesis.md",
-    "Notes/Working/DNA microarray assays.md",
-    "Notes/Working/RNA-seq.md",
-    "Notes/Working/cDNA.md",
-    "Notes/Working/RT-PCR.md",
-    "Notes/Working/in situ hybridization.md",
-    "Notes/Working/nucleic acid probe.md"
+    "Notes/Process/Biology MOC.md",
+    "Notes/Working/DNA Tools and Biotechnology.md",
+    "Notes/Working/The practical applications of DNA-based biotechnology affect our lives in many ways.md",
+    "Notes/Working/GMOs.md",
+    "Notes/Working/Untitled 1.md",
+    "Notes/Working/STRs.md",
+    "Notes/Working/genetic profile.md",
+    "Notes/Working/transgenic.md",
+    "Notes/Working/in vitro.md",
+    "Notes/Working/transgene.md"
   ]
 }
