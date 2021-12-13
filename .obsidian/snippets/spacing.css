@@ -1,0 +1,22 @@
+.CodeMirror pre.CodeMirror-line {
+  line-height: 2;/*height of a*/
+  padding-top: 6px;  /* change this value accordingly */
+  padding-bottom: 0px; /* change this value accordingly */
+}
+
+p{
+    line-height: 2; /* change this value accordingly */
+    display: block;
+    padding-top: 6px;  /* change this value accordingly */
+    padding-bottom: 0px; /* change this value accordingly */
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+li{
+  padding-top: 0px;
+  padding-bottom: 6px;
+  line-height: 2;
+}
