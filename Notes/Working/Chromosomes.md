@@ -1,6 +1,6 @@
 # Chromosomes
 ---
-**Chromosomes** contain the *genetic material* and *reside in the [[Nucleaus|nucleus]]*.
+**Chromosomes** contain the *genetic material* and *reside in the [[Nucleus|nucleus]]*.
 
 [[DNA]] is organized into these **chromosomes** which can be best described as *discrete units*.
 

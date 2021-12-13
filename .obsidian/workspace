@@ -7,7 +7,7 @@
         "id": "658df9ec7a27ead1",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -32,7 +32,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "histone",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -42,7 +42,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "30e567a26dd45871",
@@ -59,7 +59,7 @@
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           }
         }
@@ -68,5 +68,16 @@
     "currentTab": 0
   },
   "active": "658df9ec7a27ead1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Notes/Working/Nucleolus.md",
+    "nucleosomes.md",
+    "Notes/Working/A Chromosome consists of a DNA Molecule Packed Together with Proteins.md",
+    "Notes/Working/The Molecular Basis of Inheritance.md",
+    "Notes/Working/Many Proteins Work Together in DNA Replication and Repair.md",
+    "Notes/Working/DNA is the Genetic Material.md",
+    "Notes/Process/Biology MOC.md",
+    "Notes/Working/Nuclear Excision Repair.md",
+    "Notes/Working/Amino Acids.md",
+    "Notes/Working/Streptococcus pneumoniae.md"
+  ]
 }
