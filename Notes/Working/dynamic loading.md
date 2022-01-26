@@ -1,0 +1,1 @@
+All of the forces do not balance; there is acceleration.
