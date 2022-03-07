@@ -110,3 +110,28 @@ ___
 - Coccyx, composed of ~4 fused coccygeal vertebrae – they begin to fuse around the age of 25
 	- Attachment site for multiple muscles/ligaments
 ![[5D21737F-5DDC-4090-93AF-6D6F2D43C628.jpeg]]
+## Appendicular Skeleton
+- The **appendicular skeleton** is composed of 126 bones
+	- ==Pictorial Girdle== (2 clavicles + 2 scapula)
+	- ==Upper Limbs== (60; humerus, radius, ulna, carpal bones, metacarpal nones, phalanges)
+	- ==Pelvic Girdle== (2 hip bones)
+	- ==Lower Limbs== (60; femur, tibia, fibula, patella, tarsal bones, metatarsals bones, phalanges)
+- The appendicular skeleton allows you *to manipulate the/interact with the environment*
+___
+![[AC0EFB5C-7693-456E-9486-71271963F62A.jpeg]]
+### Pectoral Girdle
+- Helps to **anchor the arms to the axial skeleton**, attachment site of muscles that *wrap the upper arms and back*
+![[283B35BF-5B5C-4FB0-8514-83ACCFF213F1.jpeg]]
+![[4384E912-5E79-47CC-B20E-6FB83E1D92F8.jpeg]]
+### Upper Limb
+- Adapted for **manipulation/interaction** with the environment 
+![[B83AED03-30FF-46C9-B5CA-A871F9A8A95A.jpeg]]
+### Pelvic Girdle
+- Attach to the lower limbs, involved in weight bearing (thus the major differences between the pectoral and pelvic girdle)
+![[79D66874-F7E6-4A82-A972-72B2708B3017.jpeg]]
+### Lower Limb
+- Transfer of weight to the ground and motion
+![[E0BFA8D9-CC82-434B-A08D-891ECA40CAC6.jpeg]]
+![[6E59C707-B2BA-48D3-A49E-5F01F1C8BCAC.jpeg]]
+## Male and Female Differences
+![[47C44280-57C2-4B66-8CB0-978021203F7C.jpeg]]
