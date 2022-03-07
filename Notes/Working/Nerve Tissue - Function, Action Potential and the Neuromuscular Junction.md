@@ -15,20 +15,23 @@ ___
 - These [[neurotransmitters]] elicit some response from the postsynaptic cell
 - Synapse between a neuron and muscle cell is termed the **neuromuscular junction**
 ## Myelin Sheath 
-- A specialized cell membrane that surrounds the axon of neurons the axon of neurons
-	- Central Nervous System: this membrane is provided by oligodendrocytes
-	- Peripheral Nervous System: this membrane is provided by Schwann cells
-- Schwann cells can only cover a small portion of a signal axon, whereas oligodendrocytes can cover larger sections and multiple axons
-	- A series of Schwann cells are needed to completely cover an axon
-- Not all neurons in the central nervous system are myelinated and make-up gray matter; white matter is myelinated neurons in the central nervous system
-- Most neurons in the peripheral nervous system are myelinated
-- Myelin helps to increase the speed of communication, which is a function of the membrane potential
+
+^61f6df
+
+- A **specialized cell membrane** that *surrounds the axon of neurons*
+	- ==Central Nervous System==: this membrane is provided by [[oligodendrocytes]]
+	- ==Peripheral Nervous System==: this membrane is provided by [[Schwann cells]]
+- [[Schwann cells]] can *only cover a small portion of a signal [[axon]]*, whereas [[oligodendrocytes]] can *cover larger sections and multiple axons*
+	- A series of [[Schwann cells]] are needed to **completely cover an axon**
+- *Not all neurons in the central nervous system are myelinated* and **make-up gray matter**; ==white matter is myelinated neurons in the central nervous system==
+- Most [[neuron]]s in the **peripheral nervous system** are ==myelinated==
+- **Myelin helps to increase the speed of communication**, which is a function of the membrane potential
 ___
 ![[03CF95D1-7AE9-49F2-BC1C-477F0A8BE250.jpeg]]
 ## Membrane Potential
-- The cell membrane acts as a **capacitor**, this charge can be “stored” on the leaflets of the cell membrane
+- The cell membrane acts as a **capacitor**, *this charge can be “stored” on the leaflets of the cell membrane*
 - A potential forms because:
-	- The ionic composition of the extracellular fluid and the intracellular fluid differ (ECF has high sodium and chloride; the ICF has high potassium and proteins)
+	- The **ionic composition of the extracellular fluid** and the **intracellular fluid** ==differ== (ECF has high sodium and chloride; the ICF has high potassium and proteins)
 	- Cell are selectivity permeable and can regulate that selectivity (ions can only cross the cell membrane through specific channels)
 		- Leak channels exist, otherwise channels open in response to specific stimuli
 	- Membrane permeability is different for different ions and it is transient (this is a function of the channels that are present and their activities)
