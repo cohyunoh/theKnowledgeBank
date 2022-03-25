@@ -17,7 +17,7 @@ ___
 	- ==Kinematics:== concerned with only the geometric aspects of the motion
 	- ==Kinetics:== concerned with the analysis of forces that induce the motion
 - We will study both particle dynamics and rigid body dynamics
-- YOU MUST INCLUDE $\overrightarrow{a}$ AND $\overrightarriw{\alpha}$ IN YOUR CALCULATIONS UNLESS YOU KNOW IT IS ZERO
+- YOU MUST INCLUDE $\overrightarrow{a}$ AND $\overrightarrow{\alpha}$ IN YOUR CALCULATIONS UNLESS YOU KNOW IT IS ZERO
 ## Rectilinear Kinematics: Continuous Motion
 - **Motion of a particle on a straight line**
 - By definition, a ==particle== has a *mass but negligible size and shape*
@@ -36,10 +36,11 @@ ___
 - As the particle moves from one point to another, we can mathematically represent displacement as $\delta s = s’ - s$
 - Displacement can be negative or positive, therefore displacement is a **vector quantity**
  ![[A32865D2-C26F-445F-A4A1-D625D0AC2BB5.jpeg]]
-## Velocity (EQUATION MISSING)
-- For a particle that move through a displacement of $\Delta s$ during the time interval $\Delta t$, the average velocity is defined as $v_{avg} = \frac {\Delta s}{\Delta t}$
+## Velocity
+- For a particle that moves through a displacement of $\Delta s$ during the time interval $\Delta t$, the average velocity is defined as $v_{avg} = \frac {\Delta s}{\Delta t}$
 	- Note that this does not assume that the velocity is constant
 - The **instantaneous velocity** is derived from taking the limit of the average velocity as $\Delta t \rightarrow 0$
+	- $\lim_{\Delta t \to 0} (\frac{\Delta s}{\Delta t}) = \frac{ds}{dt}$
 - Velocity is a vector that has the same sign as the displacement, because time always moves in the positive direction
 ![[15AF2F25-045D-4316-A4CC-998D2814D3B9.jpeg]]
 ## Speed
@@ -48,10 +49,11 @@ ___
 - The **average speed** is defined as the *total **distance** the particle traveled divided by the elapsed time*
 	- $(v_{sp})_{avg} = \frac {s_T}{\Delta t}$
 ![[B1F04E07-2914-4D51-A631-EE7DD4E2C3AF.jpeg]]
-## Acceleration (EQUATION MISSING)
+## Acceleration
  - Knowing the **velocity of a particle at two instances in time, the average acceleration** of the particle is defined as $a_{avg} = \frac{\Delta v}{\Delta t}$
 	 - Note that this does not assume that the acceleration is constant over the time period
  -  The ==instantaneous acceleration== is derived from taking the limit of the average acceleration as $\Delta t \rightarrow 0$
+	 - $a = \lim_{\Delta t \to 0} (\frac{\Delta v}{\Delta t}) = \frac{dv}{dt} = \frac{d^2 s}{dt^2}$
  ![[DF8549C4-6702-4EC1-AFAB-725574FF97C2.jpeg]]
 ## Acceleration Discussion
 - *If the velocity at the second point is the same as the first point*, then the **particle is not accelerating** (or the average acceleration is zero)
@@ -97,7 +99,37 @@ ___
 - The average velocity over a particular time interval ($\Delta t$) will be defined as 
 	- $v_{avg}= \frac {\Delta r}{\Delta t}$
 - The instantaneous velocity is determined as $\Delta t$ approaches zero 
+	- $\textbf{v} = \lim_{\Delta t \to 0} (\frac{\Delta \textbf{r}}{\Delta t}) = \frac{d \textbf{r}}{dt}$
 - The direction of v is always tangent to the curve
 - The magnitude (“speed”) of v is defined by the differentiation of the path function ($v = \frac{ds}{dt}$)
 ![[729B2974-07F6-4428-91AB-518C3F96C30F.jpeg]]
 ## General Curvilinear - Acceleration
+- If the particular has a velocity of $v$ at some time ($t$) and a velocity of $v’ = v + \Delta v$ at some later $(t + \Delta t)$, then the average acceleration is
+	- $a_{avg} = \frac{\Delta v}{\Delta t}$
+- The instantaneous acceleration is determined as $\Delta t$ approaches zero
+	- $a = \lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t} = \frac{dv}{dt} = \frac{d^2 r}{dt^2}$
+- The derivative of $a$ acts tangent to the plot of the velocity. In general this, is not tangent to the path function and tends to be directed towards the center of the path function.
+![[0EE9D274-C796-4C9D-AEB0-BCCE5C5DBBC9.jpeg]]
+## Rectangular Component System - Position
+- If a particular path can be described in x, y, and z coordinates then
+- Position: $\textbf{r} = x\overrightarrow{i} + y\overrightarrow{j} + z\overrightarrow{k}$
+- The magnitude of position would be given by: $r = \sqrt{x^2 + y^2 +z^2}$ 
+- Direction would be given by three angles
+![[A726016E-11A0-45EA-A9FD-729E93C82321.jpeg]]
+## Rectangular Component System -  Velocity
+- The velocity is obtained from the first derivative of position
+	- $\textbf{v} = \frac{d\textbf{r}}{dt} = \frac{d}{dt}(x\overrightarrow{i})+ \frac{d}{dt}(y\overrightarrow{j})+ \frac{d}{dt}(z\overrightarrow{k})$
+- Note that these derivatives would need the chain rule: $\frac{d}{dt}(x\overrightarrow{i}) = \overrightarrow{i}\frac{dx}{dt} + x\frac{d\overrightarrow{i}}{dt}$
+- This takes into account both changes in direction and magnitude
+	- $\textbf{v} = v_x\overrightarrow{i} + v_y\overrightarrow{j} + v_z\overrightarrow{k}$ 
+	- $v = \sqrt{v_{x}^2 + v_{y}^2 + v_{z}^2} \to$ magnitude
+![[25BCACB0-64FA-4F9C-B874-164AE42ADE2F.jpeg]]
+## Rectangular Component System -  Acceleration
+- The acceleration is obtained from the first derivative of velocity 
+	- $\textbf{a} = \frac{d\textbf{v}}{dt} = a_x\overrightarrow{i} + a_y\overrightarrow{j} + a_z\overrightarrow{k}$
+- These formular are related as:
+	- $a_x = \frac{d}{dt}v_x = \frac{d^2}{dt^2}x$
+	- $a_y = \frac{d}{dt}v_y = \frac{d^2}{dt^2}y$
+	- $a_z = \frac{d}{dt}v_z = \frac{d^2}{dt^2}z$
+	- $\textbf{a} = \sqrt{a_{x}^2 + a_{y}^2 + a_{z}^2} \to$ magnitude
+![[9982A865-3FF9-4D69-AB31-79928C6ECBE7.jpeg]]

@@ -7,10 +7,10 @@ ___
 - ==Cholinergic synapses== are those that use **acetylcholine (ACh)** as the [[neurotransmitters]]
 	- **ACh** is the *most wide‐spread and most often studied neurotransmitter* and thus these junctions are fairly well understood
 - ACh is released:
-	- at all neuromuscular junctions involving skeletal muscle fibers
-	- at many synapses in the central nervous system
-	- at all neuron‐to‐neuron synapses in the peripheral nervous system
-	- at all neuromuscular and neuroglandular junctions in the parasympathetic division of the autonomic nervous system
+	- at **all neuromuscular junctions** involving *skeletal muscle fibers*
+	- at **many synapses in the central nervous system**
+	- at all **neuron‐to‐neuron synapses in the peripheral nervous system**
+	- at all **neuromuscular and neuroglandular junctions** in the *parasympathetic division of the autonomic nervous system*
 ## Numbers and Dimensions of Cholinergic Synapses
 - The ==synaptic cleft== (**distance between the pre‐ and post‐synaptic membranes**) is on the order of *20nm*
 	- This is the distance that the **neurotransmitter must diffuse across**
@@ -19,20 +19,20 @@ ___
 - Each ==synaptic vesicle== can contain *thousands of acetylcholine*
 - Each ==axon terminal== contains around *1 million vesicles*
 ## Events at a Cholinergic Synapse
-1. An Action Potential Arrives and Depolarizes the Axon Terminal
-	- This follows a similar process as to what was discussed in Lecture 6, with the influx of sodium to increase the membrane potential of the axon terminal
-	- In most synapses this the normal stimulus to induce the release of neurotransmitters into the synaptic cleft
-2. Extracellular Calcium Ions Enter the Axon Terminal, Triggering the Exocytosis of Acetylcholine
+1. An [[Action Potential]] **Arrives and Depolarizes** the ==Axon Terminal==
+	- This follows a similar process as to what was discussed in Lecture 6, with the *influx of sodium to increase the membrane potential of the axon terminal*
+	- In most synapses this the normal stimulus to induce the release of [[neurotransmitters]] into the synaptic cleft
+2. **Extracellular Calcium Ions Enter the Axon Terminal**, *Triggering the Exocytosis of Acetylcholine*
 	- Depolarization opens voltage‐gated calcium channels, allowing calcium ions to rush into the axon terminal
-	- Calcium is necessary for synaptic vesicle exocytosis processes
+	- ==Calcium is necessary for synaptic vesicle exocytosis processes==
 	- ACh is released in bundles of ~3000 molecules and the release is ceased very quickly after it starts (calcium is actively pumped out of the cytosol)
 ___
 ![[1873A1FA-F8AA-4263-8891-A2575A5F9204.jpeg]]
 
 ___
-3. Acetylcholine Binds to Receptors and Depolarizes the Postsynaptic Membrane
-	- ACh diffuses across the synaptic cleft and interacts with chemically gated cation channels
-	- This increases the post‐synaptic membrane permeability towards sodium and sodium rushes into the post‐synaptic cell
+3. ==Acetylcholine== **Binds to Receptors and Depolarizes the Postsynaptic Membrane**
+	- ACh diffuses across the [[synaptic cleft]] and *interacts with chemically gated cation channels*
+	- This increases the *post‐synaptic membrane permeability* towards sodium and sodium rushes into the post‐synaptic cell
 		- Note that potassium exits through these channels, but the electrochemical gradient is much stronger for sodium influx than potassium efflux
 	- If this depolarization can bring an adjacent area of membrane to threshold, an action potential initiates (more ACh can help, but the time of ACh activity (~20msec) is tightly regulated)
 4. ACh is Removed by Acetylcholinesterase (AChE)

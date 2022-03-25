@@ -4,6 +4,8 @@
 - [[Nerve Tissue - Function, Action Potential and the Neuromuscular Junction]]
 - [[Muscle and Nerve Interactions – Excitation-Contraction Coupling]]
 - [[Osseous Tissue, Bone Structure and the Axial and Appendicular Skeleton]]
+- [[Joints and Lubrication of Joints]]
+- [[Introduction to Kinesiology]]
 # Statistics and Dynamics
 ---
 - [[Introduction to Statics and Dynamics]]
@@ -14,6 +16,3 @@
 - [[Dynamics - Linear Kinematics - Biaxial Motion, Normal Tangential, Cylindrical, Dependent and Relative Motion]]
 - [[Dynamics - Planar Kinematics of a Rigid Body - Translation, Rotation and Absolute Motion Analysis]]
 - [[Dynamics - Relative Motion Analysis, Instantaneous Center]]
-# In-Class Examples
-[[Coplanar Force System]]
-[[Simply Supported Structures and Friction]]

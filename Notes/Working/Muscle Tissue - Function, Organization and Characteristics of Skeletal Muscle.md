@@ -1,16 +1,16 @@
 ## Muscle Tissue
 - All tissue in the human body can be classified into one of four types
-	- **Muscle** is one of these types - this type of tissue is specialized for ==contraction==
-	- **Nervous** -  transmission of ==electrical signals==
-	- **Epithelial** - ==barrier tissue==
-	- **Connective** - ==catch-all== (*the rest of them*)
+	- **[[Muscle Tissue]]** is one of these types - this type of tissue is specialized for ==contraction==
+	- **[[Nervous Tissue]]** -  transmission of ==electrical signals==
+	- **[[Epithelial Tissue]]** - ==barrier tissue==
+	- **[[Connective Tissue]]** - ==catch-all== (*the rest of them*)
 - There are three main types of muscles
 	- **Skeletal**
 	- **Smooth** - organs
 	- **Cardiac** - heart
 ## Functions of Skeletal Muscle
 - ==Produce skeletal movement==: pulls on **tendons** to *move bones*, so that we can produce all sorts of motions
-- ==Maintain posture/bod position==: **tension maintained in our skeletal muscle** *maintains posture*, such as head held up while sitting
+- ==Maintain posture/body position==: **tension maintained in our skeletal muscle** *maintains posture*, such as head held up while sitting
 - ==Supports soft tissue==: the skeletal muscles within the **abdominal wall** support the *weight of the visceral organs and protects them from many external injuries*
 - ==Guard entrances and exits==: skeletal muscle *surround* the **entrances/exits of the GI tract, urinary tract, etc., e.g.** this is why we can control the bodily processes associated with these openings
 - ==Maintain body temperature==: **muscle contraction** *converts chemical energy into motion and heat*; helps to keep us warm
@@ -63,21 +63,21 @@
 - ==Zone of Overlap==: region of overlap between [[Myosins|myosin]] and [[Actin|actin]]
 ![[3140E779-1CB0-490E-BDFF-577EF07E2883.jpeg]]
 
-## Thin Filament Details (incomplete)
-- ~$5-6nm$ in diameter and $1 \mu m$ in length
+## Thin Filament Details 
+- *~$5-6nm$ in diameter and $1 \mu m$ in length*
 - Composed of:
-	- [[Filamentous Actin]] (F-actin): which is braided strand of 2 globular actin chains
-	- [[Nebulin]]: a protein that is in between 
-	- [[Tropomyosin]]:
-	- [[Troponin]]:
-## Thick Filament Details (incomplete)
-- $10-12nm$ in diameter and $1.6 |mu m$ in length
+	- ==Filamentous Actin (F-actin)==: which is braided strand of 2 globular actin chains (G-actin)
+	- ==Nebulin==: a protein that is in between the braided strands of actin; helps to hold two actin strands together.
+	- ==Tropomyosin==: a protein that blocks the binding site for myosin on actin; one tropomyosin converts 7 binding sites.
+	- ==Troponin==: a protein that regulates the location of tropomyosin; binds to actin, tropomyosin and calcium (when bound to calcium myosin binding site is available).
+## Thick Filament Details 
+- *$10-12nm$ in diameter and $1.6 \mu m$ in length*
 - Composed of:
 	- [[Myosins|Myosin]]
 	- [[Titin]]
-- Myosin
-
-## Thin and Thick Filaments/Contraction Comparison (Figure Missing)
+- **Myosin-actin interactions** are termed *cross bridge formation*
+## Thin and Thick Filaments/Contraction Comparison
+![[456DFF65-C596-4204-8A5D-1E7AA37AA064.jpeg]]
 - Relaxed: no cross bridges (red not touching purple)
 - Contracted: cross bridges and shorter
 ## Overview of Different Muscle Types (incomplete and missing figure)
@@ -88,7 +88,9 @@
 - [[Pennate muscle]]
 	- These muscles are not as efficient as parallel muscles (think of the moment arm) (e.g. deltoid muscle)
 - [[Circular muscles]]
-	- Entrances/exit sphincter (e.g. or
+	- Entrances/exit sphincter (e.g. orbicularis oris muscle of mouth)
+### Images of Muscle Types
+![[C08E3BB1-98B8-4923-BE29-52CF30448067.jpeg]]
 ## Muscles Make Use of Levers to Increase Efficiency
 - The **nature** and **site of connection to bones** dictates *the force, speed and range of motion*
 - ==Bones== act as the **lever**, which move about a fixed point termed the fulcrum
